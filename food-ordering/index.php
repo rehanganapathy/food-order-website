@@ -207,7 +207,7 @@
             <a href="#">See All Foods</a>
         </p>
     </section>
-    <!-- fOOD Menu Section Ends Here -->
+    <!-- food Menu Section Ends Here -->
 
     <!-- social Section Starts Here -->
     <section class="social">
@@ -230,7 +230,7 @@
     <!-- footer Section Starts Here -->
     <section class="footer">
         <div class="container text-center">
-            <p>All rights reserved. Designed By <a href="#">Vijay Thapa</a></p>
+            <p>All rights reserved. Designed By <a href="#">Rehan Ganapathy MU</a></p>
         </div>
     </section>
     <!-- footer Section Ends Here -->
